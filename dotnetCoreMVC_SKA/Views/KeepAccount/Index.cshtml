@@ -1,0 +1,10 @@
+﻿
+@model dotnetCoreMVC_SKA.Controllers.AllOrder
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    @*@await Component.InvokeAsync("TestComponent",new {})*@
+
+    <partial name="_Input" model="Model.Order"/>
+    <br>
+    <partial name="_History" model="Model.orders"/>
+</div>

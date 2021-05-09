@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetCoreMVC_SKA", "dotnetCoreMVC_SKA.csproj", "{AE16A1E4-F837-4E89-99B3-ED5A2E9D2E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE16A1E4-F837-4E89-99B3-ED5A2E9D2E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE16A1E4-F837-4E89-99B3-ED5A2E9D2E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE16A1E4-F837-4E89-99B3-ED5A2E9D2E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE16A1E4-F837-4E89-99B3-ED5A2E9D2E68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8350E6B-5E16-40D1-9E40-D9FBBF542511}
+	EndGlobalSection
+EndGlobal
