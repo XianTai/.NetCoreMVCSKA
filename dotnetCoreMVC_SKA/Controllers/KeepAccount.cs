@@ -51,7 +51,7 @@ namespace dotnetCoreMVC_SKA.Controllers
         public string Name { get; set; }
 
         [Required,Range(0, Int32.MaxValue, ErrorMessage = "Price must >= 0")]
-        public int Price { get; set; }
+        public int? Price { get; set; }
         public string Remark { get; set; }
 
         public DateTime InputTime { get; set; }
